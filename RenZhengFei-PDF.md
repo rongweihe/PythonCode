@@ -26,7 +26,7 @@
 
 点击这个下载链接 
 
-
+![任正非 400 余篇讲话稿高清 pdf 下载](https://github.com/rongweihe/PythonCode/blob/master/%E4%BB%BB%E6%AD%A3%E9%9D%9E%20400%20%E4%BD%99%E7%AF%87%E8%AE%B2%E8%AF%9D%E7%A8%BF%E9%AB%98%E6%B8%85.pdf)
 
 即可获取这个 pdf 合集。
 
