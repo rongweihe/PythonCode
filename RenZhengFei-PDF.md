@@ -30,5 +30,6 @@
 
 即可获取这个 pdf 合集。
 
-同时，后续也把程序的思路分享给大家。
+后续程序的思路分享,点击下面
 
+![参考代码](https://github.com/rongweihe/PythonCode/blob/master/RenZhengFei-PDF-Code.md)
