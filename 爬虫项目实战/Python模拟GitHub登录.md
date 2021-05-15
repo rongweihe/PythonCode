@@ -168,7 +168,7 @@ if __name__ == "__main__":
 
 ### 6. 本节代码
 
-本节代码地址：[https://github.com/Python3WebSpider/GithubLogin](https://github.com/Python3WebSpider/GithubLogin)。
+本节代码地址：https://github.com/rongweihe/PythonCode/blob/master/%E7%88%AC%E8%99%AB%E4%BB%A3%E7%A0%81/GitHubLogin.md
 
 ### 7. 结语
 
