@@ -93,3 +93,25 @@
 >  函数还让代码更容易测试和调试。如果程序使用一系列的函数来完成其任务，而其中的每个函数都完成一项具体的工作，测试和维护起来将容易得多：你可编写分别调用每个函 数的程序，并测试每个函数是否在它可能遇到的各种情形下都能正确地运行。
 >
 > 经过这样的测试后你就能信心满满，深信你每次调用这些函数时，它们都将正确地运行。
+
+
+
+# 关于作者
+
+大家好，我是程序员小贺，北交大师兄，喜欢算法，热爱编程，热爱生活，目前就职于五道口搜狗。
+
+**加我的微信，备注：「个人简单介绍」+「读者」**， 拉你进读者交流群。
+
+<div  align="center">   <img src="https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/gzh/weichat001.jpeg" width = "300" height = "400" align=center/> </div>
+
+# 我的公众号
+
+内容公众号同步更新，所以请各位大大也扫码关注，支持一波
+
+<p align="center">
+  <a href="https://github.com/rongweihe/MoreThanCode/">
+      <img src="https://i.loli.net/2020/04/11/Ysl9RgLXWJFMaZu.png" height="200" width="500">
+  </a>
+</p>
+
+
