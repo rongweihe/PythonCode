@@ -8,7 +8,7 @@
 
 ## 第三章：[解释器](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E8%A7%A3%E9%87%8A%E5%99%A8.md)
 
-## 第四章：算术运算符
+## 第四章：[算术运算符](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E7%AC%A6.md)
 
 1、如何编写简单的 if 语句、if-else 语句和 if-elif-else 结构。
 
