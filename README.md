@@ -2,25 +2,9 @@
 
 ![](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/images/Python3%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.png)
 
-## 第一章：变量
+## 第一章： [基础语法](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
 
-1、如何使用变量；
-
-2、如何创建描述性变量以及如何消除名称错误和语法错误；
-
-3、字符串是什么？
-
-4、如何使用大小写显式字符串；
-
-5、使用空白符来显示整洁的输出；
-
-6、如何剔除字符串中多余的空白；
-
-7、如何使用整数和浮点数；
-
-8、使用数值数据的时候需要注意的行为；
-
-9、如何编写注释，让代码对你和其他人来说更容易理解。
+## 第二章：[基本数据类型](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 
 ## 第三章：列表简介
 
