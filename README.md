@@ -6,9 +6,9 @@
 
 ## 第二章：[基本数据类型](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 
-## 第三章：列表简介
+## 第三章：[解释器](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E8%A7%A3%E9%87%8A%E5%99%A8.md)
 
-## 第五章：if 语句
+## 第四章：算术运算符
 
 1、如何编写简单的 if 语句、if-else 语句和 if-elif-else 结构。
 
