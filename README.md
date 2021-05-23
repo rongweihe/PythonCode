@@ -1,6 +1,6 @@
 # PythonCode：记录学习 Python 的点滴
 
-![](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/images/Python3%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.png)
+![](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/images/Python3guide.png)
 
 ## 第一章： [基础语法](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
 
@@ -10,61 +10,19 @@
 
 ## 第四章：[算术运算符](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E7%AC%A6.md)
 
-1、如何编写简单的 if 语句、if-else 语句和 if-elif-else 结构。
+## 第五章：[数学函数](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E6%95%B0%E5%AD%A6%E5%87%BD%E6%95%B0.md)
 
-2、使用了这些结构来测试特定的条件，以确定这些条件是否满足
+## 第六章：[字符串函数](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0.md)
 
-## 第六章：字典
+## 第七章：[列表和元祖](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%88%97%E8%A1%A8%E5%92%8C%E5%85%83%E7%A5%96.md)
 
-1、如何定义字典；
+## 第八章：[字典和集合](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%85%AB%E7%AB%A0-%E5%AD%97%E5%85%B8%E5%92%8C%E9%9B%86%E5%90%88.md)
 
-2、如何使用存储在字典中的信息；
+## 第九章：[条件判断和循环控制](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%B9%9D%E7%AB%A0-%E6%9D%A1%E4%BB%B6%E5%88%A4%E6%96%AD%E5%92%8C%E5%BE%AA%E7%8E%AF%E6%8E%A7%E5%88%B6.md)
 
-3、如何访问和修改字典中的元素；
+## 第十章：[迭代器和生成器](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%8D%81%E7%AB%A0-%E8%BF%AD%E4%BB%A3%E5%99%A8%E5%92%8C%E7%94%9F%E6%88%90%E5%99%A8.md)
 
-4、以及如何遍历字典中的所有信息；
-
-5、如何遍历字典中所有的键-值对；
-
-6、如何遍历所有的键和所有的值；
-
-7、如何在列表中嵌套字典、在字典中嵌套列表以及在字典中嵌套字典
-
-## 第七章：用户输入和while循环
-
-1、如何使用 input 来提供信息；
-
-2、如何处理文本和数字信息；
-
-3、如何使用while循环让程序按用户的要求不断进行；
-
-4、多种控制while循环流程的方式；
-
-5、使用break语句和continue语句；
-
-6、如何使用while 循环在列表之间移动元素；
-
-7、如何从列表中删除所有包含特定值的元素；
-
-8、如何结合使用 while 循环和字典；
-
-《Python编程：从入门到实战》
-
-## 第八章：函数
-
-1、如何编写函数；
-
-2、以及如何传递实参，让函数能够访问完成其工作所需的信息；
-
-3、如何使用位置实参和关键字实参，以及如何接受任意数量的实参；
-
-4、显示输出 的函数和返回值的函数；
-
-5、如何将函数同列表、字典、if 语句和while 循环结合起来使用。
-
-6、如何将函数存储在被称为模块 的独立文件中，让程序文件更简单、更易于理解。
-
-7、学习函数编写指南，遵循这些指南可让程序始终结构良好，并对你和其他人来说易于阅读。
+## 第十一章：[函数](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0-%E5%87%BD%E6%95%B0.md)
 
 > 程序员的目标之一是，编写简单的代码来完成任务，而函数有助于你实现这样的目标。
 >
