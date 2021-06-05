@@ -2,27 +2,29 @@
 
 ![](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/images/Python3guide.png)
 
-## 第一章： [基础语法](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
+# Python3 简明教程
 
-## 第二章：[基本数据类型](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
+##### 第一章： [基础语法](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
 
-## 第三章：[解释器](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E8%A7%A3%E9%87%8A%E5%99%A8.md)
+##### 第二章：[基本数据类型](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 
-## 第四章：[算术运算符](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E7%AC%A6.md)
+##### 第三章：[解释器](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E8%A7%A3%E9%87%8A%E5%99%A8.md)
 
-## 第五章：[数学函数](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E6%95%B0%E5%AD%A6%E5%87%BD%E6%95%B0.md)
+##### 第四章：[算术运算符](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E7%AC%A6.md)
 
-## 第六章：[字符串函数](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0.md)
+##### 第五章：[数学函数](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E6%95%B0%E5%AD%A6%E5%87%BD%E6%95%B0.md)
 
-## 第七章：[列表和元祖](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%88%97%E8%A1%A8%E5%92%8C%E5%85%83%E7%A5%96.md)
+##### 第六章：[字符串函数](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0.md)
 
-## 第八章：[字典和集合](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%85%AB%E7%AB%A0-%E5%AD%97%E5%85%B8%E5%92%8C%E9%9B%86%E5%90%88.md)
+##### 第七章：[列表和元祖](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%88%97%E8%A1%A8%E5%92%8C%E5%85%83%E7%A5%96.md)
 
-## 第九章：[条件判断和循环控制](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%B9%9D%E7%AB%A0-%E6%9D%A1%E4%BB%B6%E5%88%A4%E6%96%AD%E5%92%8C%E5%BE%AA%E7%8E%AF%E6%8E%A7%E5%88%B6.md)
+##### 第八章：[字典和集合](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%85%AB%E7%AB%A0-%E5%AD%97%E5%85%B8%E5%92%8C%E9%9B%86%E5%90%88.md)
 
-## 第十章：[迭代器和生成器](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%8D%81%E7%AB%A0-%E8%BF%AD%E4%BB%A3%E5%99%A8%E5%92%8C%E7%94%9F%E6%88%90%E5%99%A8.md)
+##### 第九章：[条件判断和循环控制](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%B9%9D%E7%AB%A0-%E6%9D%A1%E4%BB%B6%E5%88%A4%E6%96%AD%E5%92%8C%E5%BE%AA%E7%8E%AF%E6%8E%A7%E5%88%B6.md)
 
-## 第十一章：[函数](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0-%E5%87%BD%E6%95%B0.md)
+##### 第十章：[迭代器和生成器](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%8D%81%E7%AB%A0-%E8%BF%AD%E4%BB%A3%E5%99%A8%E5%92%8C%E7%94%9F%E6%88%90%E5%99%A8.md)
+
+##### 第十一章：[函数](https://github.com/rongweihe/PythonCode/blob/master/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0-%E5%87%BD%E6%95%B0.md)
 
 > 程序员的目标之一是，编写简单的代码来完成任务，而函数有助于你实现这样的目标。
 >
@@ -38,9 +40,51 @@
 
 
 
+# Python3 CookBook
+
+第一章：数据结构和算法
+
+- ##### 1 [将序列分解为单独的变量](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p01_unpack_sequence_into_separate_variables.md)
+
+- 2 [解压可迭代对象赋值给多个变量](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p02_unpack_elements_from_iterables.md)
+
+- 3 [保留最后 N 个元素](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p03_keep_last_n_items.md)
+
+- 4 [查找最大或最小的 N 个元素](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p04_find_largest_or_smallest_n_items.md)
+
+- 5 [实现一个优先级队列](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p05_implement_a_priority_queue.md)
+
+- 6 [字典中的键映射多个值](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p06_map_keys_to_multiple_values_in_dict.md)
+
+- 7 [字典排序](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p07_keep_dict_in_order.md)
+
+- 8 [字典的运算](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p08_calculating_with_dict.md)
+
+- 9 [查找两字典的相同点](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p09_find_commonalities_in_dicts.md)
+
+- 10 [删除序列相同元素并保持顺序](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p10_remove_duplicates_from_seq_order.md)
+
+- 11 [命名切片](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p11_naming_slice.md)
+
+- 12 [序列中出现次数最多的元素](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p12_determine_most_freqently_items_in_seq.md)
+
+- 13 [通过某个关键字排序一个字典列表](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p13_sort_list_of_dicts_by_key.md)
+
+- 14 [排序不支持原生比较的对象](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p14_sort_objects_without_compare_support.md)
+
+- 15 [通过某个字段将记录分组](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p15_group_by_some_filed.md)
+
+- 16 [过滤序列元素](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p16_filter_sequence_elements.md)
+
+- 17 [从字典中提取子集](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p17_extract_subset_of_dict.md)
+
+- 18 [映射名称到序列元素](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p18_map_names_to_sequences_elements.md)
+
+- 19 [转换并同时计算数据](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p19_transform_and_reduce_data_same_time.md)
+
 # 关于作者
 
-大家好，我是程序员小贺，北交大师兄，喜欢算法，热爱编程，热爱生活，目前就职于宇宙中心五道口某大厂。
+大家好，我是程序员小贺，北交大师兄，喜欢算法，热爱编程，热爱生活，目前就职于宇宙中心五道口。
 
 **加我的微信，备注：「个人简单介绍」+「读者」**， 拉你进读者交流群。
 
