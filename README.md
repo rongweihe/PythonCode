@@ -38,8 +38,6 @@
 >
 > 经过这样的测试后你就能信心满满，深信你每次调用这些函数时，它们都将正确地运行。
 
-
-
 # Python3 CookBook
 
 第一章：数据结构和算法
@@ -81,6 +79,28 @@
 - 18 [映射名称到序列元素](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p18_map_names_to_sequences_elements.md)
 
 - 19 [转换并同时计算数据](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part1-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/p19_transform_and_reduce_data_same_time.md)
+
+第二章：字符串和文本
+
+- 1[使用多个界定符来分割字符串](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p01_split_string_on_multiple_delimiters.md)
+- 2 [字符串开头或结尾匹配](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p02_match_text_at_start_end.md)
+- 3 [使用 Shell 通配符匹配字符串](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p03_match_strings_with_shell.md)
+- 4 [字符串匹配和搜索](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p04_match_and_search_text.md)
+- 5 [字符串搜索和替换](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p05_search_and_replace_text.md)
+- 6 [字符串忽略大小写的搜索替换](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p06_search_replace_case_insensitive.md)
+- 7 [最短匹配模式](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p07_specify_regexp_for_shortest_match.md)
+- 8 [多行匹配模式](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p08_regexp_for_multiline_partten.md)
+- 9 [将Unicode文本标准化](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p09_normalize_unicode_text_to_regexp.md)
+- 10 [在正则式中使用Unicode](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p10_work_with_unicode_in_regexp.md)
+- 11 [删除字符串中不必要的字符](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p11_strip_unwanted_characters.md)
+- 12 [审查清理文本字符串](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p12_sanitizing_clean_up_text.md)
+- 13 [字符串对齐](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p13_aligning_text_string.md)
+- 14 [合并拼接字符串](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p14_combine_and_concatenate_strings.md)
+- 15 [字符串中插入变量](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p15_interpolating_variables_in_strings.md)
+- 16 [指定列宽格式化字符串](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p16_reformat_text_to_fixed_number_columns.md)
+- 17 [在字符串中处理HTML或XML](https://github.com/rongweihe/PythonCode/blob/master/PythonCookbook3rd/part2%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%96%87%E6%9C%AC/p17_handle_html_xml_in_text.md)
+
+
 
 # 关于作者
 
