@@ -2,7 +2,7 @@
 
 Python 提供了大量的内置数据结构，包括列表，集合以及字典。大多数情况下使用这些数据结构是很简单的。但是，我们也会经常碰到诸如查询，排序和过滤等这些普遍存在的问题。因此，这一章的目的就是讨论这些比较常见的问题和算法，另外也会给出在集合模块 `collections` 当中操作这些数据结构的方法。
 
-
+![](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/images/PythonCookbook-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95.png)
 
 # 第二章：字符串和文本
 
