@@ -24,5 +24,13 @@ Python 提供了大量的内置数据结构，包括列表，集合以及字典�
 
 ![](https://cdn.jsdelivr.net/gh/rongweihe/ImageHost01/images/PythonCookbook-%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E8%BF%AD%E4%BB%A3%E5%99%A8%E5%92%8C%E7%94%9F%E6%88%90%E5%99%A8.png)
 
+# 第五章：文件与IO
+
+所有程序都要处理输入和输出。 这一章将涵盖处理不同类型的文件，包括文本和二进制文件，文件编码和其他相关的内容。 对文件名和目录的操作也会涉及到。
+
+# 第六章：数据编码和处理
+
+这一章主要讨论使用Python处理各种不同方式编码的数据，比如CSV文件，JSON，XML和二进制包装记录。 和数据结构那一章不同的是，这章不会讨论特殊的算法问题，而是关注于怎样获取和存储这些格式的数据。
+
 参考：https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html
 
