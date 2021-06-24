@@ -1,4 +1,4 @@
-## 用 urllib 的 urljoin() 拼接两个网址
+## 用 urllib 的 urljoin() 拼接两个网址（很强大）
 
 对于 urljoin()，第一个参数是基础母站的 url，第二个是需要拼接成绝对路径的 url。
 
@@ -21,9 +21,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 'http://www.youtube.com/user/khanacademy'
 ```
 
-
-
-如果url2，是一个完整的url，则以后者的为准，所以，不管url2是不是短连接，都可以放进去拼接。
+如果 url2，是一个完整的 url，则以后者的为准，所以，不管 url2 是不是短连接，都可以放进去拼接。
 
 ```python
 >>> url2 = "http://www.youtube.com/user/khanacademy"
@@ -33,7 +31,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> parse.urljoin(url1,url2)
 'http://d.com/user/khanacademy'
 ```
-
-
 
  
