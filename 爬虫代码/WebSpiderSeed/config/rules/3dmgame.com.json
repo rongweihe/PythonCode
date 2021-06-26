@@ -1,0 +1,13 @@
+{
+    "3dmgame.com": {
+      "seed_url": {
+        "https://shouyou.3dmgame.com/android/1_1_1/": {
+          "type": "category_multi_page",
+          "app_type": "game",
+          "xpath_str_get_category": "is_full_category_url",
+          "xpath_str_get_next_page": "//li[@class='next']/a/@href",
+          "xpath_str_get_page_seed": "//div[@class='downl_item']/div[@class='item']/div/a[1]/@href"
+        }
+      }
+    }
+  }
