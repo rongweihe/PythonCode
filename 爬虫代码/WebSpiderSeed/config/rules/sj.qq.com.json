@@ -1,0 +1,13 @@
+{
+    "sj.qq.com": {
+      "seed_url": {
+        "https://sj.qq.com/myapp/category.htm?orgame=1&categoryId=122": {
+          "type": "category_multi_page",
+          "app_type": "soft",
+          "xpath_str_get_category": "//ul[@class='menu-junior']/li/a/@href",
+          "xpath_str_get_next_page": "",
+          "xpath_str_get_page_seed": "//ul[@class='app-list clearfix']/li/div/a/@href"
+        }
+      }
+    }
+  }
