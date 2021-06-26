@@ -1,0 +1,19 @@
+{
+    "web_url": [
+      {
+        "web_name": "99danji.com",
+        "status": 1,
+        "use_proxy": 0
+      },
+      {
+        "web_name": "3dmgame.com",
+        "status": 1,
+        "use_proxy": 0
+      },
+      {
+        "web_name": "sj.qq.com",
+        "status": 1,
+        "use_proxy": 0
+      }
+    ]
+}
