@@ -1,7 +1,7 @@
 '''
 Author: herongwei
 Date: 2021-06-27 09:54:36
-LastEditTime: 2021-06-27 10:20:22
+LastEditTime: 2021-06-27 10:22:54
 LastEditors: Please set LastEditors
 Description: 核心工作类
 FilePath: /WebSpiderSeed/bin/fetch_woker.py
@@ -48,3 +48,6 @@ def do_get_all_category_urls(seed_url_item, seed_url, curr_ua, data, process_ind
 
     return seed_url_category_urls
 
+def fetch_worker(process_index, task_queue):
+    #从种子队列中实时消费
+    #提取具体种子
