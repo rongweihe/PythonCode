@@ -3,9 +3,9 @@
 ```python
 # -*- coding: utf-8 -*-
 """
-Subject: 消费指定时间窗内所产生的消息
-@Author YH YR
-@Time 2019/01/23 21:23
+Subject: Python 消费 kafka 指定时间窗内所产生的消息
+@Author herongwei
+@Time 2021/07/01 08:47
 """
 import time
 from kafka import KafkaConsumer, TopicPartition
