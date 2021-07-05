@@ -10,7 +10,13 @@ Subject: Python 消费 kafka 指定时间窗内所产生的消息
 import time
 from kafka import KafkaConsumer, TopicPartition
 
-#定义一个时间戳消费类
+# 定义一个时间戳消费类 
+# auto.offset.reset 关乎 kafka 数据的读取，是一个非常重要的设置。常用的二个值是 latest 和 earliest，默认是 latest。
+#
+#latest 和 earliest 区别
+#1，earliest 当各分区下有已提交的offset时，从提交的offset开始消费；无提交的offset时，从头开始消费
+#2，latest 当各分区下有已提交的offset时，从提交的offset开始消费；无提交的offset时，消费新产生的该分区下的数据
+
 class ConsumerTimeStampWindow:
     def __init__(self, broker_list, group_name, topic, enable_auto_commit=True, auto_offset_reset='latest'):
         self.topic = topic
