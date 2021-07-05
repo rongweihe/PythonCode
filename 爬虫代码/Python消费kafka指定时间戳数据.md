@@ -16,7 +16,7 @@ from kafka import KafkaConsumer, TopicPartition
 #latest 和 earliest 区别
 #1，earliest 当各分区下有已提交的offset时，从提交的offset开始消费；无提交的offset时，从头开始消费
 #2，latest 当各分区下有已提交的offset时，从提交的offset开始消费；无提交的offset时，消费新产生的该分区下的数据
-
+#提交过offset，latest和earliest没有区别，但是在没有提交offset情况下，用latest直接会导致无法读取旧数据。
 class ConsumerTimeStampWindow:
     def __init__(self, broker_list, group_name, topic, enable_auto_commit=True, auto_offset_reset='latest'):
         self.topic = topic
