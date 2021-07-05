@@ -37,7 +37,7 @@ class ConsumerTimeStampWindow:
         while True:
             if False not in partition_consumer_finish_flag.values():
                 return
-            consumer_records = self.consumer.poll(100)
+            consumer_records = self.consumer.poll(100)#这个参数设置
             for partition_info, records in consumer_records.items():
                 if partition_consumer_finish_flag[partition_info]:
                     print('-------------- {0} consumer finish --------------'.format(partition_info))
