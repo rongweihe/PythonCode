@@ -10,7 +10,7 @@ Subject: Python 消费 kafka 指定时间窗内所产生的消息
 import time
 from kafka import KafkaConsumer, TopicPartition
 
-
+#定义一个时间戳消费类
 class ConsumerTimeStampWindow:
     def __init__(self, broker_list, group_name, topic, enable_auto_commit=True, auto_offset_reset='latest'):
         self.topic = topic
