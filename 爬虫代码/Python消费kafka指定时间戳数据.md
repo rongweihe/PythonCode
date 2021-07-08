@@ -26,7 +26,8 @@ class ConsumerTimeStampWindow:
     def consumer_from_offset_window(self, process_msg, begin_time, end_time):
         self.consumer.subscribe(self.topic)
         self.consumer.poll(0)
-
+        #调用 get_offset_time_window 返回开始和结束时间偏移
+        #对每一个分区进行seek
         begin_offset_dic, end_offset_dic = self.get_offset_time_window(begin_time, end_time)
         for topic_partition, offset_and_timestamp in begin_offset_dic.items():
             self.consumer.seek(topic_partition, offset_and_timestamp[0])
@@ -79,7 +80,6 @@ class ConsumerTimeStampWindow:
 
 def print_msg(msg_dic):
     print(msg_dic)
-
 
 if __name__ == '__main__':
     broker_list = 'localhost:9092'
