@@ -548,7 +548,7 @@ print(result)
 
 以上是 XPath 轴的简单用法，更多轴的用法可以参考：http://www.w3school.com.cn/xpath/xpath_axes.asp。
 
-#### 15. 结语
+#### 15. 基础用法总结
 
 到现在为止，我们基本上把可能用到的 XPath 选择器介绍完了。XPath 功能非常强大，内置函数非常多，熟练使用之后，可以大大提升 HTML 信息的提取效率。
 
@@ -570,36 +570,54 @@ print(result)
 
 #### 2、contains()
 
-   contains(str1,str2)函数用来判断str2是否是第一个字符串的一部分。
+   contains(str1,str2) 函数用来判断 str2 是否是第一个字符串的一部分。
 
-   简单示例：
+简单示例：`//*[@id='dinfo']/p[3]/i[6]/span[contains(@class,'lstar')]/@class`  就是提取同一个等级下的 class 标签。
 
 #### 3、normalize-space()
 
-  normalize-space()用来将一个字符串的头部和尾部的空白字符删除，如果字符串中间含有多个连续的空白字符，将用一个空格来代替。
+  normalize-space() 用来将一个字符串的头部和尾部的空白字符删除，如果字符串中间含有多个连续的空白字符，将用一个空格来代替。
 
-  简单示例：
+简单示例：`normalize-sapce(//*[@id='dinfo']/h1/text())` 去除标题两边的空格。
 
 #### 4、starts-with()
 
-  start-with(string,startr)函数用来判断string是否以startstr开头。
+  start-with(string,startr) 函数用来判断 string 是否以 startstr 开头。
+
+`xpath("//input[start-with(@id,'nice')` 判断是否以 nice 字符串开头，注意返回的 bool 类型
 
 #### 5、string-length()
 
-string-length(string)函数用来返回参数string的长度，如果参数string为缺省，将返回上下文节点的字符串长度。
+string-length(string) 函数用来返回参数 string 的长度，如果参数 string 为缺省，将返回上下文节点的字符串长度。
+
+`string-length(//h3[@style='margin-top: 18px'])`
 
 #### 6、substring()
 
-  substring(string,number,length)函数用来截取字符串。参数string用于指定要截取的字符串；参数number用于指定开始位置；参数length用于指定截取字符串的长度。如果缺少length参数将从开始位置number一直到截取字符串的长度
+substring(string,number,length)函数用来截取字符串。参数 string 用于指定要截取的字符串；参数 number用于指定开始位置；参数 length 用于指定截取字符串的长度。如果缺少 length 参数将从开始位置 number一直到截取字符串的长度。
+
+`//h3[@style='margin-top: 18px']/text()` = BOSS 直聘
+
+`substring(//h3[@style='margin-top: 18px'],1,4)`  = BOSS
 
 #### 7、substring-before()
 
-  substring-before(str1,str2)函数用于返回字符串str1中位于字符串str2之前的部分。
+  substring-before(str1,str2)函数用于返回字符串 str1 中位于字符串 str2 之前的部分。
+
+`//span[@class='detail-info-down']//text()` = 2294.5万次下载 75.77MB
+
+`substring-before(//span[@class='detail-info-down']//text(),' ')` 用于去除空白 = 2294.5万次下载
 
 #### 8、substring-after()
 
-  substring-after(str1,str2)函数跟substring-before类似，substring-after0返回字符串str1中位于字符串str2之后的部分。
+  substring-after(str1,str2) 函数跟 substring-before 类似，substring-after0 返回字符串 str1 中位于字符串str2 之后的部分。
+
+同上
+
+`substring-after(//span[@class='detail-info-down']//text(),' ')` = 75.77MB
 
 #### 9、translate()
 
-  translate(string,replaced_txt,replacement_txt)函数用来替换字符串，替换string中的所有replaced_txt为replacement_txt.
+  translate(string,replaced_txt,replacement_txt) 函数用来替换字符串，替换 string 中的所有 replaced_txt 为replacement_txt.
+
+`translate(//h3[@style='margin-top: 18px']/text(),'BOSS','AOSS')` = AOSS直聘
